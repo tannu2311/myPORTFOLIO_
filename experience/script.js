@@ -20,7 +20,7 @@ $(document).ready(function(){
 /* ===== SCROLL REVEAL ANIMATION ===== */
 const srtop = ScrollReveal({
     origin: 'top',
-    distance: '80px',
+    distance: '10px',
     duration: 1000,
     reset: true
 });

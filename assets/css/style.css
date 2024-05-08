@@ -763,6 +763,7 @@ header .navbar ul li a:hover {
 .experience .timeline {
   position: relative;
   max-width: 1200px;
+  max-height:400px;
   margin: 0 auto;
 }
 .experience .timeline::after {
